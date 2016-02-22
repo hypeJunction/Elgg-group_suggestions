@@ -8,7 +8,7 @@ Group Suggestions for Elgg
 
  * Suggests groups to join based on shared tags and relationships
 
-![Group Suggestions](https://raw.github.com/hypeJunction/Elgg-group_suggestions/master/screenshots/suggestions.png "Group Suggestions")
+![Group Suggestions](https://raw.github.com/hypeJunction/Elgg-group_suggestions/master/screenshots/suggested.png "Group Suggestions")
 
 ## Notes
 
